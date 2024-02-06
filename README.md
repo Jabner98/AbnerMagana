@@ -4,10 +4,10 @@
 
 <h2>Certifications</h2>
 
-- CompTIA Security +
-- AZ-900 Azure Fundamentals
-- MD-102 Endpoint Adminstrator
-- MS-100 365 Identify and Services
+- [CompTIA Security+](https://www.credly.com/badges/1c100853-9293-4701-98ac-fcc5accd34b1/public_url)
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/AP5UQYM4KMQK)
+- [AZ-900 Azure Fundamentals](https://learn.microsoft.com/en-us/users/abnermagana-4783/credentials/82e23bdff81d1d06)
+- [MD-102 Endpoint Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/AbnerMagana-4783/ED5480020A3F9947?sharingId=8EE8288664A5F844)
 
 <h2> 🤳 Connect with me:</h2>
 
