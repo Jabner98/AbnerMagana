@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abner!<br/><a href="https://github.com/AbnerMagana">IT Analyst</a>, <a href="https://www.linkedin.com/in/abner-magana-884834165/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Abner!<br/><a href="https://github.com/AbnerMagana">IT Analyst</a>, <a href="https://www.linkedin.com/in/abner-magana-884834165/">Cybersecurity Student</a>,
 
 <h2>👨‍💻Projects:</h2>
 <a href="https://github.com/Jabner98/Sentinel-Lab">Sentinel-Lab</a>
