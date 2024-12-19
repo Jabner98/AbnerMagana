@@ -8,7 +8,7 @@ National Cyber League (NCL) Fall 2024 - 1453rd place out of 8483 nationally:
 <br>
 <img width="523" alt="image" src="https://github.com/user-attachments/assets/2d11be36-daf8-4d14-bb94-302255c1f019"/>
 <br>
-
+<a href="https://github.com/Jabner98/Fall-2024-NCL-Scouting-Report/blob/main/README.md">View my NCL Scouting Report</a>
 <h2>👨‍💻Projects:</h2>
 <a href="https://github.com/Jabner98/Sentinel-Lab">Sentinel-Lab</a>
 <br />
