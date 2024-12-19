@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abner!<br/><a href="https://github.com/AbnerMagana">IT Analyst</a>, <a href="https://www.linkedin.com/in/abner-magana-884834165/">Cybersecurity Student</a>,
+<h1>Hi, I'm Abner!😄<br/><a href="https://github.com/AbnerMagana">IT Analyst👨‍💻</a>, <a href="https://www.linkedin.com/in/abner-magana-884834165/">Cybersecurity Student👨‍💻</a>,
 
 <h2>👨‍💻Cyber Challenges:</h2>
 <a href="https://github.com/Jabner98/Cyber-Career-Challenge/blob/main/README.md">2024 NCYTE Cyber Career Challenge</a>
