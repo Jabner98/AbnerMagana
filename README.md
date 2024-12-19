@@ -2,6 +2,10 @@
 
 <h2>👨‍💻Cyber Challenges:</h2>
 <a href="https://github.com/Jabner98/Cyber-Career-Challenge/blob/main/README.md">2024 Cyber Career Challenge</a>
+<br>
+<br>
+National Cyber League (NCL) Fall 2024 - 1453rd place out of 8483 nationally:
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/2d11be36-daf8-4d14-bb94-302255c1f019" />
 <h2>👨‍💻Projects:</h2>
 <a href="https://github.com/Jabner98/Sentinel-Lab">Sentinel-Lab</a>
 <br />
